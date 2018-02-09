@@ -1,0 +1,7 @@
+Health Canada Drug Product Database files can be dowloaded from the following link:
+http://www.hc-sc.gc.ca/dhp-mps/alt_formats/zip/prodpharma/databasdon/
+
+Files that use the new format (since end of 2017) all end in '.zip'
+
+Old format files end in '_old_vieux.zip'
+
