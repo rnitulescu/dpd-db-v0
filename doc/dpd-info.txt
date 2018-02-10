@@ -1,4 +1,7 @@
 Health Canada Drug Product Database files can be dowloaded from the following link:
+https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-product-database/what-data-extract-drug-product-database.html
+
+The files are in the following directory:
 http://www.hc-sc.gc.ca/dhp-mps/alt_formats/zip/prodpharma/databasdon/
 
 Files that use the new format (since end of 2017) all end in '.zip'
